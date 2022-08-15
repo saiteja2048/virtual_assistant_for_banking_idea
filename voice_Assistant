@@ -1,0 +1,21 @@
+By using voice assistants with the Speech service, developers can create natural, human-like, conversational interfaces for their applications and experiences.
+
+The voice assistant service provides fast, reliable interaction between a device and an assistant implementation that uses either Direct Line Speech (via Azure Bot Service) for adding voice capabilities to your bots or Custom Commands for voice-command scenarios.
+**CHOOSING AND ASSISTANT SOLUTION
+*For Open-ended conversation with robust skills integration and full deployment control
+       we can consider Azure Bot Service bot with Direct Line Speech channel
+       Examples:
+          "I need to go to Seattle"
+          "What kind of pizza can I order?"
+* For Voice-command or simple task-oriented conversations with simplified authoring and hosting
+       we can consider custom commands
+       Examples:
+           "Turn on the overhead light"
+           "Make it 5 degrees warmer"
+**CUSTOMIZATION
+Voice assistants that you build by using Speech service can use a full range of customization options.
+
+Custom Speech
+Custom Voice
+Custom Keyword
+          
