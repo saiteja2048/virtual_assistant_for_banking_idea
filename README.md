@@ -24,5 +24,9 @@ Although banking virtual assistants are still relatively new and were not listed
 using Microsoft Azure cognitive speech services and chatbot we can develop our virtual assistant for banking and we can integrate our virtual assistant with any banking API
 # custom commands
 ![customcommands](https://user-images.githubusercontent.com/98277450/184619008-34cac7df-45ab-4b9b-bfdb-6dad9b220879.png)
+![Screenshot_2022-08-15-11-17-12-06_f9ee0578fe1cc94de7482bd41accb329](https://user-images.githubusercontent.com/98277450/184620043-c3c8501c-4d02-4333-92aa-a990083369e9.jpg)
 # Azure BOT service
 ![azure_bot_service](https://user-images.githubusercontent.com/98277450/184619065-570261c4-66f8-4edc-ab9b-ae86fd05d5bd.png)
+# customizable voice assistants
+![Screenshot_2022-08-15-11-18-10-67_f9ee0578fe1cc94de7482bd41accb329](https://user-images.githubusercontent.com/98277450/184620231-505aa5c4-235b-4d30-b796-dff17b75da83.jpg)
+
